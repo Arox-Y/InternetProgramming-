@@ -2,7 +2,7 @@ Event managment and Tic Tac Toe
 
 Group 8 
 
-Group Mamber .........ID
+Group Member ..........ID
 
 Ariyam Yilma .........ETS0212/14
 
